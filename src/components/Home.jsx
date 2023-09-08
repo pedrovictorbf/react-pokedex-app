@@ -57,7 +57,7 @@ export default function Home() {
             setNumber();
             setPicture();
             setName();
-        })
+        })  
     }
 
     return (
